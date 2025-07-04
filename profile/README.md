@@ -4,9 +4,9 @@ The [Medical Data Integration Center (meDIC)](https://www.medizin.uni-tuebingen.
 
 The meDIC is funded as part of the Medical Informatics Initiative of the [Federal Ministry of Research, Technology and Space (BMFTR)](https://www.bmbf.de/DE/Home/home_node.html). The [University of Tübingen](https://uni-tuebingen.de/en/) and the University Hospital of Tübingen are working together with partner sites in Munich, Ulm, Augsburg, Homburg and Regensburg as part of the DIFUTURE (Data Integration for Future Medicine) consortium.
 
-<img src="images/UKT-Logo_RGB_c1_l3-Schmal-gross.png" width="450"/> <img src="images/EKUT UNI Logo_v2.png" width="450"/>
+<img src="../images/UKT-Logo_RGB_c1_l3-Schmal-gross.png" width="450"/> <img src="../images/EKUT UNI Logo_v2.png" width="450"/>
 
-<img src="images/DIZ_deutsch_RGB.jpg" width="300"/> <img src="images/NetzUniMed.jpg" width="300"/> <img src="images/BMFTR_en_DTP_CMYK_gef_durch.jpg" width="300"/>
+<img src="../images/DIZ_deutsch_RGB.jpg" width="300"/> <img src="../images/NetzUniMed.jpg" width="300"/> <img src="../images/BMFTR_en_DTP_CMYK_gef_durch.jpg" width="300"/>
 
 
 
